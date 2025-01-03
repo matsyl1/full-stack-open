@@ -19,3 +19,5 @@ full-stack-open/
 Parts submitted:
 
 Part 0 - [Fundamentals of Web apps](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
+
+Part 1 - [Introduction to React](https://fullstackopen.com/en/part1/introduction_to_react)
