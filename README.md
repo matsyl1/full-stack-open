@@ -21,7 +21,7 @@ Progression:
 | 0 | [Fundamentals of Web apps](https://fullstackopen.com/en/part0)                                          |6 / 6 | ✔ | 
 | 1 | [Introduction to React](https://fullstackopen.com/en/part1)                                             | 14 / 14 | ✔ | 
 | 2 | [Communicating with server](https://fullstackopen.com/en/part2)                                         | 20 / 20 | ✔ | 
-| 3 | [Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)                      | / | . | 
+| 3 | [Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)                      | 22 / 22 | ✔ | 
 | 4 | [Testing Express servers, user administration](https://fullstackopen.com/en/part4)                      | / | . | 
 | 5 | [Testing React apps](https://fullstackopen.com/en/part5)                                                | / | . | 
 | 6 | [Advanced state management](https://fullstackopen.com/en/part6)                                         | / | . | 
