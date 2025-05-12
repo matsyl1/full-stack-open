@@ -1,0 +1,12 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJpZCI6IjY4MTM5MjU3ZTYwNjgzOWQxODMxOWVjMCIsImlhdCI6MTc0NjQ2Mzg4OX0.U7HpvoP-2yG5g6bNkNXD7Vdp-7ITCLlI8UgWNkbgTME
+
+
+
+{
+    "title": "Blog to be deleted",
+    "author": "Unknown", 
+    "url": "Unknown",
+    "likes": 1
+}
