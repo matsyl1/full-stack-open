@@ -24,7 +24,7 @@ Progression:
 | 3 | [Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)                      | 22 / 22 | ✔ | 
 | 4 | [Testing Express servers, user administration](https://fullstackopen.com/en/part4)                      | 23 / 23 | ✔ | 
 | 5 | [Testing React apps](https://fullstackopen.com/en/part5)                                                | 23 / 23 | ✔ | 
-| 6 | [Advanced state management](https://fullstackopen.com/en/part6)                                         | / | . | 
+| 6 | [Advanced state management](https://fullstackopen.com/en/part6)                                         | 24 / 24 | ✔ | 
 | 7 | [React router, custom hooks, styling app with CSS and webpack](https://fullstackopen.com/en/part7)      | / | . | 
 | 8 | [GraphQL](https://fullstackopen.com/en/part8)                                                           | / | . | 
 | 9 | [TypeScript](https://fullstackopen.com/en/part9)                                                        | / | . | 
