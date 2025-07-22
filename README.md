@@ -32,3 +32,13 @@ Progression:
 | 11 | [CI/CD](https://fullstackopen.com/en/part11)                                                           | / | . | 
 | 12 | [Containers](https://fullstackopen.com/en/part12)                                                      | / | . | 
 | 13 | [Using relational databases](https://fullstackopen.com/en/part13)                                      | / | . | 
+
+<br>
+
+Completed parts:
+
+Parts 0-5 (core course) - Full Stack Web Development (5 cr, CSM141081)<br>
+Part 6 - Full Stack Web Development, extension 1 (1 cr, CSM141082)<br>
+Part 7 - Full Stack Web Development, extension 2 (1 cr, CSM141083)<br>
+
+![Certificate](./certificate-fullstack-parts-0-to-7.png)
