@@ -27,7 +27,7 @@ Progression:
 | 6 | [Advanced state management](https://fullstackopen.com/en/part6)                                         | 24 / 24 | ✔ | 
 | 7 | [React router, custom hooks, styling app with CSS and webpack](https://fullstackopen.com/en/part7)      | 21 / 21 | ✔ | 
 | 8 | [GraphQL](https://fullstackopen.com/en/part8)                                                           | / | . | 
-| 9 | [TypeScript](https://fullstackopen.com/en/part9)                                                        | / | . | 
+| 9 | [TypeScript](https://fullstackopen.com/en/part9)                                                        | 30 / 30 | ✔ | 
 | 10 | [React Native](https://fullstackopen.com/en/part10)                                                    | / | . | 
 | 11 | [CI/CD](https://fullstackopen.com/en/part11)                                                           | / | . | 
 | 12 | [Containers](https://fullstackopen.com/en/part12)                                                      | / | . | 
@@ -42,3 +42,7 @@ Part 6 - Full Stack Web Development, extension 1 (1 cr, CSM141082)<br>
 Part 7 - Full Stack Web Development, extension 2 (1 cr, CSM141083)<br>
 
 ![Certificate](./certificate-fullstack-parts-0-to-7.png)
+
+Part 9 - Full Stack Web Development: TypeScript (1 cr, CSM14110)
+
+![Certificate](./certificate-typescript-part-9.png)
